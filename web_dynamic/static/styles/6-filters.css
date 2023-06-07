@@ -95,6 +95,7 @@ button:hover {
     margin-top: 1.5%;
     margin-bottom: 5%;
     margin-left: 0px;
+    display: inline;
 }
 
 .amenities:hover .popover,
@@ -102,7 +103,8 @@ button:hover {
     visibility: visible;
 }
 
-.amenities .popover ul li input {
+.popover ul li input {
   margin-left: 10px;
   margin-right: 10px;
+  display: inline;
 }
